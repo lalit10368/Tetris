@@ -1,4 +1,7 @@
 # Tetris
+
+![alt text](http://4.bp.blogspot.com/-NRV6FedGu-Y/UOLCObNhzXI/AAAAAAAAAXk/hx1sPZ9jC8c/s1600/Tetris+Shapes.jpg)
+
 Design Tetris Game.
 A Tetris game is played on mxn grid called the matrix.
 
